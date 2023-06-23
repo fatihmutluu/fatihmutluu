@@ -8,7 +8,7 @@
 
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align= "center"/>
 </h1>
 
 I'm Fatih, and I thrive on crafting efficient and reliable solutions in the realm of backend development. With a keen interest in Java and JavaScript, I bring a wealth of experience and a genuine enthusiasm for creating robust and scalable applications. 🚀
