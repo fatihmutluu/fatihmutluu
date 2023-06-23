@@ -28,19 +28,3 @@ Specializing in Java and JavaScript, I build high-performance and secure backend
 ### Data Science 📊
 Beyond backend development, I'm fascinated by data science. I dive into data analysis, machine learning algorithms, and data visualization to uncover hidden gems within datasets.
 
-## Additional Highlights
-
-### Continuous Learning 🌟
-Committed to keeping up with the latest trends, I continuously learn and explore new tools, frameworks, and methodologies to deliver exceptional solutions.
-
-### Collaboration 🌍
-Valuing collaboration, I enjoy working with diverse teams to tackle complex challenges, believing that great ideas flourish when minds come together.
-
-### Open Source 📚
-A firm believer in the power of open source software, I actively contribute to projects and share my knowledge with the developer community.
-
-## Let's Connect 💬
-Interested in backend development, Java, JavaScript, or data science? Feel free to reach out! Let's connect, exchange ideas, and collaborate on exciting projects.
-
-Let's embark on a journey of innovation, problem-solving, and creating impactful solutions together! ✨
-
