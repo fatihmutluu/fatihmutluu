@@ -21,6 +21,7 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ### Backend Development 💻
 I specialize in backend development, leveraging the power of Java and JavaScript to build high-performance and secure applications. From designing RESTful APIs to implementing database architectures, I enjoy working on the intricate components that make software systems tick.
 
