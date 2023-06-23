@@ -1,6 +1,6 @@
 # Passionate Backend Developer | Java | JavaScript | Data Science Enthusiast
 
-👋 Hello there! I'm [Your Name], and I thrive on crafting efficient and reliable solutions in the realm of backend development. With a keen interest in Java and JavaScript, I bring a wealth of experience and a genuine enthusiasm for creating robust and scalable applications. 🚀
+👋 Hello there! I'm Fatih, and I thrive on crafting efficient and reliable solutions in the realm of backend development. With a keen interest in Java and JavaScript, I bring a wealth of experience and a genuine enthusiasm for creating robust and scalable applications. 🚀
 
 ## Technologies and Areas of Expertise
 
