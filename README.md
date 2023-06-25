@@ -1,7 +1,7 @@
 # Passionate Backend Developer | Java | JS | Data Science Enthusiast
 
 <div>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="left" width="90"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="left" width="110"/>
   <a href="https://www.linkedin.com/in/fatihmutluu/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
