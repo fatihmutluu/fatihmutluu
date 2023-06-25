@@ -27,13 +27,8 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
-Backend Development 💻
+###Backend Development 💻
 I specialize in backend development, where I create the server-side components of applications. I enjoy designing RESTful APIs that facilitate communication between the frontend and backend, and I implement robust database architectures to store and retrieve data securely. Ensuring high performance and reliability is at the core of my backend development approach.
 
-Data Science 📊
+###Data Science 📊
 In addition to backend development, I have a keen interest in data science. I love diving into data, analyzing it, and extracting meaningful insights. With expertise in data analysis, machine learning algorithms, and data visualization, I uncover valuable patterns and trends hidden within datasets.
-
-Feel free to reach out if you're interested in discussing backend development, Java, JavaScript, or anything related to data science. I'm always eager to connect with fellow developers, exchange ideas, and collaborate on exciting projects.
-
-Let's embark on a journey of innovation, problem-solving, and creating impactful solutions together! ✨
-
